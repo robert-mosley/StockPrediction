@@ -16,7 +16,8 @@ A python-based program that allows users to visualize historical stock data and 
 - `yfinance`
 - `pandas_datareader`
 
-#Usage
+## Usage
+
 Clone the repository or download the script to your local machine.
 Run the script from the command line: python stock_prediction.py <STOCK_SYMBOL>
 
