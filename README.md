@@ -18,8 +18,8 @@ A python-based program that allows users to visualize historical stock data and 
 
 ## Usage
 
-Clone the repository or download the script to your local machine.
-Run the script from the command line: python stock_prediction.py <STOCK_SYMBOL>
+- Clone the repository or download the script to your local machine.
+- Run the script from the command line: python stock_prediction.py <STOCK_SYMBOL>
 
 You can install the necessary libraries by running:
 
